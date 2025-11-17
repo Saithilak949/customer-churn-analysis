@@ -28,7 +28,9 @@ I:
 - Shared important findings: Summarized data nicely focusing on what matters.
 - Tailored messages: Adjusted my language to match the client's knowledge level.
 - Suggested actions: Gave specific advice on what to do next.
-![Email](https://github.com/DataVizExpert-Sham/Predictive-Customer-Analytics-in-Power-BI/assets/151017676/bfa991d6-c901-4a80-b43b-f8a8c8c54aeb)
+ ## **Contact**
+Email: saithilak949@gmail.com
+LinkedIn: www.linkedin.com/in/sai-thilak-b332b5199
 
 
 **Get Started:**
